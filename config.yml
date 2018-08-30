@@ -1,0 +1,12 @@
+block_name: 'kinblock'
+solver_filename: 'ur5'
+solver_functions:
+- function_name: 'fk1'
+- function_name: 'fk2'
+- function_name: 'ik1'
+- function_name: 'ik2'
+output_directory: 'out'
+interface_type: 'nonsporadic'
+solver_library_location: ''
+model_constants: |
+      // initialize model constants

@@ -1,0 +1,4 @@
+---
+libs:
+- out/kinblock/rmtool/libkinsolverbridge.a
+- out/kinblock/rmtool/libur5.a
